@@ -1,5 +1,5 @@
 # core-code-from-scratch-readme
-Pizza 🍕
+# Pizza 🍕
 1. Comprar los ingredientes para la pizza los cuales seran enlistados a continuacion 
 1.1 355 ml de agua tibia, 2 1/4 cucharaditas) de levadura seca activa, 490g harina de pan, 2 cucharadas de aceite de oliva extra virgen, 2 cusharadas de sal kosher. 1 cucharada de azucar, Salsa de tomate, Queso Mozzarella gratinado, queso fontina rallado, queso parmesano rallado, Queso feta desmenuzado, hongos picados al gusto, pepperoni, pesto, arugula cebolla y jamon.
 2. Hacer la masa de la pizza (Cepille la parte superior de la masa con aceite de oliva para que quede crunchy)
@@ -9,7 +9,7 @@ Pizza 🍕
 6. Disfurtar de una deliciosa pizza
 7. FIN. 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Hot N Cold 🤒 🧊 🔥
+# Hot N Cold 🤒 🧊 🔥
 1. Leer la temperatura
 2. Si la temperatura esta en grados Fahrenheit 
 2.1 Use la fórmula: C = 5/9*(F-32), donde F es la temperatura anterior leída
@@ -19,7 +19,7 @@ Hot N Cold 🤒 🧊 🔥
 3.2 Se devolvera el resultado en grados Fahrenheit
 4. FIN. 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Some geometry 📐
+# Some geometry 📐
 1. Preguntar que volumne quiere calcular (Esfera, Piramide o Cubo)
 1.1 Dependiendo del volumen que se quiera calcular usaremos el metodo correspondiente 
 2. Si se elige esfera, procedemos a calcular el volumen de una esfera
