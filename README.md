@@ -40,3 +40,9 @@
 ![image](https://user-images.githubusercontent.com/116528306/203882386-b3478bd1-a5c2-4b4d-8e35-f13761fad96c.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Date of birth 👧
+1. Preguntamos la edad de la persona
+2. El año obtenido lo vamos a llamar DOB
+3. Vamos a usar la formula: Año de nacimiento = DOB - el año presente (2022)
+4. Nos devuelve el valor del año en que nacio la persona
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------# Treasures 👑
+
