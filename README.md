@@ -50,6 +50,6 @@
 1. Los cofres A y C tienen el tesoro
 2. ![image](https://user-images.githubusercontent.com/116528306/203882951-6aaae7f1-b4fd-489c-b4b0-124ac87c1173.png)
 ![image](https://user-images.githubusercontent.com/116528306/203882977-b203ee82-ca30-49d2-b838-aaaf2d43d4de.png)
-![Uploading image.png…]()
+
 
 
