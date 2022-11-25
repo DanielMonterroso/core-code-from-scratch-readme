@@ -44,5 +44,6 @@
 2. El año obtenido lo vamos a llamar DOB
 3. Vamos a usar la formula: Año de nacimiento = DOB - el año presente (2022)
 4. Nos devuelve el valor del año en que nacio la persona
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------# Treasures 👑
 
