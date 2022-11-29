@@ -69,4 +69,7 @@ By trying every situation possible (everyone studying and no one studying) I hav
 6. Tomamos una cuchara y degustamos de nuestro cereal.
 7. FIN.
 
+![image](https://user-images.githubusercontent.com/116528306/204416052-50966273-6444-46ee-b072-c50e9d081aa4.png)
+
+
 
