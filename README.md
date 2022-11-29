@@ -56,5 +56,17 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Week 2
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Logic problem
+Who is telling the truth?
+By trying every situation possible (everyone studying and no one studying) I have come to a decision that only Bob has studied and only him is telling the truth.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Cereal vrs Milk
+1. Escoger el plato que utilizaremos, de preferencia hondo para almacenar bien el contenido.
+2. Escoger el cereal que desee comer.
+3. Escoger el tipo de leche que desee acompañar con el cereal.
+4. Servimos el cereal antes que la leche como toda persona cuerda.
+5. Servimos la leche.
+6. Tomamos una cuchara y degustamos de nuestro cereal.
+7. FIN.
 
 
