@@ -85,3 +85,25 @@ By trying every situation possible (everyone studying and no one studying) I hav
 # Register Form
 ![image](https://user-images.githubusercontent.com/116528306/205417814-aed91061-8dd7-4545-944e-bb98ac146746.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Thruth Tables
+1. T & T = T VERDADERO
+2. T & F = F VERDADERO
+3. F & T = T FALSO
+4. F & F = F VERDADERO
+5. T | T = T VERDADERO
+6. T | F = F FALSO
+7. F | T = T VERDADERO
+8. F | F = F VERDADERO
+9. ~T = T FALSO
+8. F | F = F VERDADERO
+10. ~F = T  VERDADERO
+11. (T & F) | (~F) = T VERDADERO
+12. (T | F ) & (F | F) = T FALSO
+13. ~((T | F ) & (F | F)) & F = T VERDADERO
+14. ~((T | F ) & (F | F)) & T = F VERDADERO
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Boolean Results
+![image](https://user-images.githubusercontent.com/116528306/205418217-64288aba-c1e4-4bd8-9d9a-ac81cc6fc9e9.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Identify odd and even numbers
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
