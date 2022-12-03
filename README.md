@@ -106,4 +106,5 @@ By trying every situation possible (everyone studying and no one studying) I hav
 ![image](https://user-images.githubusercontent.com/116528306/205418217-64288aba-c1e4-4bd8-9d9a-ac81cc6fc9e9.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Identify odd and even numbers
+![image](https://user-images.githubusercontent.com/116528306/205418396-965d84d6-2356-430a-a02f-d1a45f8a5168.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
