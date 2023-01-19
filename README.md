@@ -304,7 +304,7 @@ By trying every situation possible (everyone studying and no one studying) I hav
 ![image](https://user-images.githubusercontent.com/116528306/213553272-7d82bcea-529d-4400-ab36-1eba7adf157c.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Decode the morse code 
-![image](https://user-images.githubusercontent.com/116528306/213553386-ca849bac-6e99-4a60-982f-e7574bc08aa2.png)
+![image](https://user-images.githubusercontent.com/116528306/213554002-366e503b-8077-4c84-ba09-a2556cbb1898.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Who likes it? 
 ![image](https://user-images.githubusercontent.com/116528306/213553570-ac8fcd8c-9fd6-421f-9fa4-65996db6a5fa.png)
